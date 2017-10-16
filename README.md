@@ -2,7 +2,6 @@
 
 	# Due to size of the source data, the XML file has been stored on Google drive, https://drive.google.com/open?id=0ByPvWDiJNfm7el81aXJiUkM1LTg
 
-
 	# 3 levels of VBA scripting have been created to ease “Full” takes roughly 1.5 minutes to run while “Lite” will have the shortest run time.
 
 * Script buttons are located on each sheet and will require Macros to be activated within Excel.
@@ -23,9 +22,3 @@
 * Identify the stock with the greatest percentage increase in its price; the stock that suffered the greatest percentage decrease in its price; and finally, identify the stock with the greatest trade volume.
 
 * The script should cover every worksheet by running it once
-
-
-
-
-
-An experienced data driven, process minded, team-player. Close to a decade in Business Operations and an aptitude for coding and data science.
