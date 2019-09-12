@@ -1,6 +1,6 @@
 ﻿# VBA Exercise - The VBA of Wall Street
 
-	# Due to size of the source data, the XML file has been stored on Google drive, https://drive.google.com/open?id=0ByPvWDiJNfm7el81aXJiUkM1LTg
+	# Due to size of the source data, the XML file has been stored on Google drive, https://drive.google.com/file/d/0ByPvWDiJNfm7el81aXJiUkM1LTg/view
 
 	# 3 levels of VBA scripting have been created to ease “Full” takes roughly 1.5 minutes to run while “Lite” will have the shortest run time.
 
